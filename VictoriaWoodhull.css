@@ -1,0 +1,66 @@
+/* Jenna Sparco */
+/* Three Column Template */
+/* 28-Dec-2017 */
+/* Jenna Sparco */
+/* Three Column Template */
+/* 28-Dec-2017 */
+
+* { 
+    margin: 0;
+    padding: 0; }
+
+header { 
+    border-bottom: 2px solid #000000;}
+     
+body {
+    width: 90%;
+    margin: 15px auto;
+    border: 1px solid black; 
+    background-color: #D8ABAB;
+    }
+#sidebarA {
+    width: 25%;
+    height: 620px;     
+    float: left;
+    border-right: 2px solid #000000; 
+    text-align: center; }
+
+main {
+    width: 50%; 
+    float: left; 
+    font-size: 110%;
+    }
+
+#v {
+    height: 40%;
+    width: 30%;
+    float: right;
+    }
+
+#sidebarB {
+    width: 24%;
+    height: 620px;     
+    float: right;
+    border-left: 2px solid #000000; }
+    
+#n {
+   height: 30%;
+   width: 85%;
+   margin:15px auto;
+   margin-right:20px;
+   float:left;
+   }
+   
+#b {
+   height: 25%;
+   width: 90%;
+   }
+
+footer {
+    clear: both; 
+    border-top: 2px solid #000000; }
+    
+
+
+                
+    
